@@ -1,4 +1,5 @@
 # php-docker
 
 # รัน Docker
-docker-compose up -d
+1. Installing Docker Compose ก่อน
+2. docker-compose up -d
