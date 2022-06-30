@@ -1,4 +1,4 @@
 # php-docker
 
 # รัน Docker
-## docker-compose up -d
+docker-compose up -d
